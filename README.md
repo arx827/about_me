@@ -1,7 +1,6 @@
 # 陳毅丞 (Eason)
  - Education : 高苑科技大學 / 資訊傳播系
  - Location : 嘉義縣
- - personal website : https://arx827.github.io/personalWebsite/
  - E-mail : arx827@gmail.com
  - Mobile : 0912-997-113
 
@@ -10,12 +9,12 @@
 
 ### 高苑科大創新育成中心 - 網頁設計 (2009/9 - 2010/8)
  * 平面美工設計
- * 參與產學合作 網頁版面設計與製作
- * 參與學校資管系所研討會 網頁版面設計與製作
+ * 參與產學合作  網頁版面設計與製作
+ * 參與學校資管系所研討會  網頁版面設計與製作
  
 ### 京錡影像科技有限公司 - 大圖輸出人員 (2013/10 - 2015/4)
- * 檔案轉檔協助,PVC印刷,大型帆布印刷
- * 品質管控,後製加工(冷裱;裱板;裁型)
+ * 檔案轉檔協助、PVC印刷、大型帆布印刷
+ * 品質管控、後製加工(冷裱；裱板；裁型)
  
 ### 火箭科技(舊名:隆達設計) - 前端網頁設計 (2015/5 - 2017/11)
  * 參與公司新版網頁開發專案
@@ -33,7 +32,7 @@
  * 使用 flash 製作動畫，並轉成html5
  
 ### 前端 - HTML/CSS/SCSS/RWD/Bootstrap/JavaScript(ES6)/jQuery/AJAX
- * 熟悉 HTML5 + CSS 完成RWD頁面架構和布局；並能在不依賴 Framework 下進行 RWD 客製化，開發符合各裝置尺寸的網站建置
+ * 熟悉 HTML5 + CSS 完成RWD頁面架構和布局；並能在不依賴 Framework 下進行 RWD 客製化
  * 使用 SCSS 管理網頁版型
  * 使用 Bootstrap 快速開發響應式網頁，熟悉Flexbox架構
  * 撰寫 JavaScript，熟悉 ES6 語法
