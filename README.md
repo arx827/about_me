@@ -73,7 +73,7 @@
 　<a href="http://www.diandiandian.com.tw/index.php" target="_blank">網站連結</a>
   - CSS視差滾動效果
   - Bootstrap4 與 自訂義CSS 快速搭建響應式網頁
-  ![](/pic3.jpg)
+  - ![](/pic3.jpg)
 
 
 - 殺價王 - 殺價式購物平台
