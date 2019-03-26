@@ -1,4 +1,4 @@
-![image](https://github.com/arx827/about_me/blob/master/user-1.png)
+![image](user-1.png)
 ## 陳毅丞 (Eason)
  網頁前端工程師
  - Education：高苑科技大學／資訊傳播系
@@ -73,6 +73,8 @@
 　<a href="http://www.diandiandian.com.tw/index.php" target="_blank">網站連結</a>
   - CSS視差滾動效果
   - Bootstrap4 與 自訂義CSS 快速搭建響應式網頁
+  ![](/pic3.jpg)
+
 
 - 殺價王 - 殺價式購物平台
 　<a href="https://www.behance.net/gallery/77946123/_" target="_blank">頁面總覽</a>
@@ -86,6 +88,8 @@
   - RWD、FlexBox版面調整 (Bootstrap4與自定義)
   - 觸底加載搭配AJAX、lazyload圖片緩載解決大數據問題
   - 建置數字小鍵盤解決跨平台、驗證限制問題
+  ![](/pic4.jpg)
+
 
 - 火箭科技（RWD）
 　<a href="https://www.behance.net/gallery/77931953/_" target="_blank">頁面總覽</a>
@@ -96,6 +100,8 @@
   - Lazy load 插件製作 圖片延遲加載效果
   - elastislide 插件製作 產品縮圖滾動拖曳效果
   - light Box 插件製作 產品放大顯示效果
+  ![](/pic1.jpg)
+
 
 - 立佳實業有限公司（RWD）
 　<a href="https://www.behance.net/gallery/77958849/_" target="_blank">頁面總覽</a>
@@ -104,3 +110,4 @@
   - Bootstrap 與 自訂義CSS 快速搭建響應式網頁
   - elastislide 插件製作 產品縮圖滾動拖曳效果
   - light Box 插件製作 產品放大顯示效果
+ ![](/pic2.jpg)
