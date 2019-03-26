@@ -4,9 +4,21 @@
  - Location：嘉義縣
  - E-mail：arx827@gmail.com
  - Mobile：0912-997-113
-
+ - github：https://github.com/arx827
+ - behance：https://www.behance.net/eason_chen
 
 ## 工作經歷
+
+#### 點點點行銷有限公司 (2018／4～2019／3)
+ * 開發與維護新版  殺價式購物平台  前台版面、動態效果
+ * 維護  整合商家點數系統  前台版面調整及動態效果
+ * 解決跨瀏覽器、跨平台問題
+ * 前端使用  JavaScript、jQuery
+ * 與後端工程師合作，RESTful  API  串接
+ * 利用  canvas  生成電子發票
+ * RWD版面調整  (Bootstrap4與自定義)
+ * 觸底加載搭配AJAX、lazyload圖片緩載解決大數據問題
+ * 建置數字小鍵盤解決跨平台、驗證限制問題
 
 #### 火箭科技－前端網頁設計（2015／5－2017／11）
  * 參與公司新版網頁開發專案
