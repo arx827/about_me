@@ -89,7 +89,8 @@
   - RWD、FlexBox版面調整 (Bootstrap4與自定義)
   - 觸底加載搭配AJAX、lazyload圖片緩載解決大數據問題
   - 建置數字小鍵盤解決跨平台、驗證限制問題
-  ![](/pic4.jpg)
+  
+![](/pic4.jpg)
 
 
 - 火箭科技（RWD）
@@ -101,7 +102,8 @@
   - Lazy load 插件製作 圖片延遲加載效果
   - elastislide 插件製作 產品縮圖滾動拖曳效果
   - light Box 插件製作 產品放大顯示效果
-  ![](/pic1.jpg)
+
+![](/pic1.jpg)
 
 
 - 立佳實業有限公司（RWD）
@@ -111,4 +113,5 @@
   - Bootstrap 與 自訂義CSS 快速搭建響應式網頁
   - elastislide 插件製作 產品縮圖滾動拖曳效果
   - light Box 插件製作 產品放大顯示效果
+  
  ![](/pic2.jpg)
