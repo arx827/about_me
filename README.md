@@ -1,5 +1,6 @@
 ![image](https://github.com/arx827/about_me/blob/master/user-1.png)
-# 陳毅丞 (Eason)
+## 陳毅丞 (Eason)
+ 網頁前端工程師
  - Education：高苑科技大學／資訊傳播系
  - Location：嘉義縣
  - E-mail：arx827@gmail.com
@@ -44,25 +45,51 @@
  * 使用 photoshop、illustrator 進行視覺設計與切版
  * 使用 flash 製作動畫，並轉成 html5
  
-#### 前端－HTML／CSS／SCSS／RWD／Bootstrap／JavaScript（ES6）／jQuery／AJAX
- * 熟悉 HTML5＋CSS 完成RWD頁面架構和布局；並能在不依賴 Framework 下進行 RWD 客製化
+#### 前端技術 HTML／CSS／SCSS／RWD／Bootstrap／JavaScript（ES6）／jQuery／AJAX
+ * 熟悉 HTML5/CSS 完成RWD頁面架構和布局；並能在不依賴 Framework 下進行 RWD 客製化
  * 使用 SCSS 管理網頁版型
- * 使用 Bootstrap 快速開發響應式網頁，熟悉 Flexbox 架構
- * 撰寫 JavaScript，熟悉 ES6 語法
+ * 使用 Bootstrap3/Bootstrap4 快速開發響應式網頁，熟悉 Flexbox 架構
+ * 撰寫 JavaScript ES6 語法
  * 使用 jQuery＋CSS 呈現網頁動畫效果
- * 利用 AJAX 撈取遠端 JSON 資料並顯示在網頁上
+ * 利用 AJAX 撈取遠端 JSON 資料並顯示在網頁上，且懂得運用Promise處理同步非同步
+ * 引用第三方套件(ex: lazyload、Flexslider)
+ * Canvas 基本操作
 
-#### Git／GitHub
+#### Git／GitHub／TortoiseGit
  * 能使用 Git 在 GitHub 上進行版本控制
+ * 使用TortoiseGit處理Git
  * Github Page
 
 #### 其他
+ * NPM
+ * 瞭解MVC / MVVM原理
  * 使用 Coggle 繪製網頁流程心智圖
  * 使用 trello 案件交辦與控管
  
  
 ## 作品集 
-- <a href="http://www.rocketsz.com/" target="_blank">火箭科技（RWD）</a>
+- 點點點有限公司 - 官網（RWD）
+　<a href="https://www.behance.net/gallery/77936247/_" target="_blank">頁面總覽</a>
+　<a href="http://www.diandiandian.com.tw/index.php" target="_blank">網站連結</a>
+  - CSS視差滾動效果
+  - Bootstrap4 與 自訂義CSS 快速搭建響應式網頁
+
+- 殺價王 - 殺價式購物平台
+　<a href="https://www.behance.net/gallery/77946123/_" target="_blank">頁面總覽</a>
+　<a href="http://www.saja.com.tw/site/" target="_blank">網站連結</a>
+  - 前端使用 JavaScript、jQuery
+  - 與後端工程師合作，RESTful API 串接
+  - 會員點數機制
+  - 即時下標流程串接
+  - WebView仿APP 效果製作(滑動、切換)
+  - 利用 canvas 生成電子發票
+  - RWD、FlexBox版面調整 (Bootstrap4與自定義)
+  - 觸底加載搭配AJAX、lazyload圖片緩載解決大數據問題
+  - 建置數字小鍵盤解決跨平台、驗證限制問題
+
+- 火箭科技（RWD）
+　<a href="https://www.behance.net/gallery/77931953/_" target="_blank">頁面總覽</a>
+　<a href="https://eason.neocities.org/rocketsz/" target="_blank">網站連結</a>
   - 一頁式網站
   - 版型規劃與設計、切版
   - Bootstrap 與 自訂義CSS 快速搭建響應式網頁
@@ -70,57 +97,10 @@
   - elastislide 插件製作 產品縮圖滾動拖曳效果
   - light Box 插件製作 產品放大顯示效果
 
-- <a href="http://www.lcp.com.tw/" target="_blank">立佳實業有限公司（RWD）</a>
+- 立佳實業有限公司（RWD）
+　<a href="https://www.behance.net/gallery/77958849/_" target="_blank">頁面總覽</a>
+　<a href="https://eason.neocities.org/li_chia/tw/index.html" target="_blank">網站連結</a>
   - 版型規劃與設計、切版
   - Bootstrap 與 自訂義CSS 快速搭建響應式網頁
   - elastislide 插件製作 產品縮圖滾動拖曳效果
   - light Box 插件製作 產品放大顯示效果
-
-- <a href="http://oksos.net/tw/index.php" target="_blank">OKSOS救急網（RWD）</a>
-  - LOGO繪製、版型規劃與設計、切版
-  - Bootstrap 與 自訂義CSS 快速搭建響應式網頁
-  - 使用 css3＋jquery 製作動態效果
-
-- <a href="http://www.hinokivillage.com.tw/" target="_blank">檜意森活村（RWD）</a>
-  - 版面規劃、切版
-  - 不依賴 Framework 下進行 RWD 客製化
-  - 使用 css3＋jquery 製作動態效果
-
-- <a href="http://tclongchang.com.tw/" target="_blank">隆昌包裝材料行（RWD）</a>
-  - 版型規劃與設計、切版
-  - 產品圖去背
-  - Bootstrap 與 自訂義CSS 快速搭建響應式網頁
-  - 使用 css3＋jquery 製作動態效果
-  - slick 插件製作 輪播效果
-  - prettyPhoto 插件製作 產品放大顯示效果
-
-- <a href="http://www.a9958.com.tw/" target="_blank">大角星（RWD）</a>
-  - 版面規劃、切版
-  - Bootstrap 與 自訂義CSS 快速搭建響應式網頁
-  - 使用 css3＋jquery 製作動態效果
-
-- <a href="http://sn.sh1788.net/" target="_blank">炫海娛樂城（RWD）</a>
-  - 切版
-  - Bootstrap 與 自訂義CSS 快速搭建響應式網頁
-  - 使用 css3＋jquery 製作動態效果
-
-- <a href="http://048235631.com/" target="_blank">景欣園藝</a>
-  - 版面規劃、切版
-  - 使用php串接資料，顯示於網頁上
-
-- <a href="http://showhands.net/" target="_blank">一注入魂 賽事分析網</a>
-  - LOGO繪製、版型規劃與設計、切版
-  - banner、button及Icon繪製
-  - 使用php串接資料，顯示於網頁上
-  - 後台資料更新與維護
-  
-- <a href="http://dwsport.info/" target="_blank">讀網 運動賽事分析網</a>
-  - banner、button及Icon繪製
-  - 使用php串接資料，顯示於網頁上
-  - 使用 flash 製作動畫
-  - 後台資料更新與維護
-
- 
- 
- 
- 
