@@ -1,3 +1,4 @@
+![image](https://github.com/arx827/about_me/blob/master/user-1.png)
 # 陳毅丞 (Eason)
  - Education：高苑科技大學／資訊傳播系
  - Location：嘉義縣
