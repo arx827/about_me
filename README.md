@@ -114,4 +114,4 @@
   - elastislide 插件製作 產品縮圖滾動拖曳效果
   - light Box 插件製作 產品放大顯示效果
   
- ![](/pic2.jpg)
+![](/pic2.jpg)
