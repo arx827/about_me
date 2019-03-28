@@ -95,7 +95,7 @@
 
 - 火箭科技（RWD）
 　<a href="https://www.behance.net/gallery/77931953/_" target="_blank">頁面總覽</a>
-　<a href="https://eason.neocities.org/rocketsz/" target="_blank">網站連結</a>
+　<a href="https://arx827.github.io/rocketsz/" target="_blank">網站連結</a>
   - 一頁式網站
   - 版型規劃與設計、切版
   - Bootstrap 與 自訂義CSS 快速搭建響應式網頁
@@ -108,7 +108,7 @@
 
 - 立佳實業有限公司（RWD）
 　<a href="https://www.behance.net/gallery/77958849/_" target="_blank">頁面總覽</a>
-　<a href="https://eason.neocities.org/li_chia/tw/index.html" target="_blank">網站連結</a>
+　<a href="https://arx827.github.io/li-chia/" target="_blank">網站連結</a>
   - 版型規劃與設計、切版
   - Bootstrap 與 自訂義CSS 快速搭建響應式網頁
   - elastislide 插件製作 產品縮圖滾動拖曳效果
